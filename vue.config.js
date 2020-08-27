@@ -1,6 +1,9 @@
 const path = require('path');
 
 module.exports = {
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/funbox_test_task/'
+    : '/',
   configureWebpack: {
     resolve: {
       alias: {
