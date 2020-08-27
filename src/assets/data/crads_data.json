@@ -1,0 +1,43 @@
+{
+  "cards": [
+    {
+      "available": true,
+      "selected": false,
+      "content": "с фуа-гра",
+      "count": 10,
+      "gift": {
+        "text": "мышь в подарок"
+      },
+      "weight": 0.5,
+      "selected_text": "Печень утки разварная с артишоками.",
+      "additional_text": ""
+    },
+    {
+      "available": true,
+      "selected": true,
+      "content": "с рыбой",
+      "count": 40,
+      "gift": {
+        "count": 2,
+        "text": "мыши в подарок"
+      },
+      "weight": 2,
+      "selected_text": "Головы щучьи с чесноком да свежая сёмгушка.",
+      "additional_text": ""
+
+    },
+    {
+      "available": false,
+      "selected": false,
+      "content": "с курой",
+      "count": 100,
+      "gift": {
+        "count": 5,
+        "text": "мышей в подарок"
+      },
+      "weight": 5,
+      "selected_text": "Филе из цыплят с трюфелями в бульоне.",
+      "additional_text": "заказчик доволен"
+    }
+  ]
+}
