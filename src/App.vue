@@ -24,10 +24,10 @@ export default {
   height 100vh
   background: repeat url('~assets/images/Pattern.png');
 
-  @media screen and (max-width 1200px)
+  @media screen and (max-width 120rem)
     height auto
 
-  @media screen and (max-width 400px)
+  @media screen and (max-width 40rem)
     min-width 32rem
 
 </style>

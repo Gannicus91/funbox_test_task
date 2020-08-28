@@ -56,7 +56,7 @@ export default {
 .main-content
   padding-top 3.6rem
 
-  @media screen and (max-width 400px)
+  @media screen and (max-width 40rem)
     min-width 32rem
 
   .page-title

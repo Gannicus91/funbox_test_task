@@ -208,7 +208,7 @@ export default {
 .block-wrapper
   margin 3rem 4rem
 
-  @media screen and (max-width 400px)
+  @media screen and (max-width 40rem)
     margin 3rem 0
 
   .product-title
