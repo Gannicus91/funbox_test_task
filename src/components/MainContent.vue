@@ -54,11 +54,6 @@ export default {
 
 <style lang="stylus" module="$s">
 .main-content
-  display flex
-  flex-direction column
-  align-items center
-  justify-content center
-  height 100%
   padding-top 3.6rem
 
   @media screen and (max-width 400px)

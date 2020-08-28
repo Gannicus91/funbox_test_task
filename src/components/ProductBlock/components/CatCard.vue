@@ -51,9 +51,6 @@ export default {
 .cat-card
   position relative
 
-  display flex
-  flex-direction column
-  align-items flex-end
   width 32rem
   height 48rem
 
@@ -62,6 +59,7 @@ export default {
   .main-card
     position relative
 
+    display inline-block
     width 100%
     height 43.5rem
     padding-left 4.8rem
@@ -74,8 +72,7 @@ export default {
   .card-head
     position relative
 
-    display flex
-    align-items center
+    float right
     width 27.5rem
     height 4.5rem
     padding-left .7rem
@@ -105,7 +102,7 @@ export default {
       top -1.2rem
       left -2.3rem
 
-      height 6.36rem
+      height 6.38rem
       width .4rem
 
       background #1698D9
